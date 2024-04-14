@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fb8c9d2b3a21cae449c1eec72472673b
+  - enabled: 1
+    path: Assets/Scenes/Elephant.unity
+    guid: 596a07802c52538409da1b89614aaa3b
+  - enabled: 1
+    path: Assets/Scenes/Camel.unity
+    guid: 01d319cdb8f420549a28818cbeba0eae
+  - enabled: 1
+    path: Assets/Scenes/Owl.unity
+    guid: a2e25c20b16272b409ab2e3002abc3c2
+  - enabled: 1
+    path: Assets/Scenes/Wolf.unity
+    guid: 820dad946857e9d4792969ba0a9410bb
+  - enabled: 1
+    path: Assets/Scenes/Turtile.unity
+    guid: da4c68df1f3b29649bd6435f6b6d8eaa
+  - enabled: 1
+    path: Assets/Scenes/LionCube.unity
+    guid: 088264de15690f7459da39b505db4fb7
+  m_configObjects: {}
